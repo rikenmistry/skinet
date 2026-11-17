@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "Wireless Bluetooth Headphones",
+    "Description": "Over-ear wireless headphones with noise cancellation and up to 30 hours of battery life.",
+    "Price": 79.99,
+    "PictureUrl": "https://example.com/images/wireless-headphones.jpg",
+    "Type": "Electronics",
+    "Brand": "SoundWave",
+    "QuantityInStock": 35
+  },
+  {
+    "Name": "Stainless Steel Water Bottle",
+    "Description": "Insulated 750 ml bottle that keeps drinks cold for up to 24 hours.",
+    "Price": 24.5,
+    "PictureUrl": "https://images.unsplash.com/photo-1602143407151-7111542de6e8",
+    "Type": "Home & Kitchen",
+    "Brand": "HydroPeak",
+    "QuantityInStock": 120
+  },
+  {
+    "Name": "Classic Cotton T-Shirt",
+    "Description": "Soft, breathable cotton T-shirt suitable for everyday wear.",
+    "Price": 18.99,
+    "PictureUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+    "Type": "Clothing",
+    "Brand": "UrbanBasics",
+    "QuantityInStock": 80
+  },
+  {
+    "Name": "Ceramic Coffee Mug",
+    "Description": "Durable 350 ml ceramic mug with a comfortable handle.",
+    "Price": 12.99,
+    "PictureUrl": "https://example.com/images/ceramic-coffee-mug.jpg",
+    "Type": "Home & Kitchen",
+    "Brand": "DailyCup",
+    "QuantityInStock": 64
+  },
+  {
+    "Name": "Portable Bluetooth Speaker",
+    "Description": "Compact portable speaker with clear sound and splash-resistant design.",
+    "Price": 49.99,
+    "PictureUrl": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1",
+    "Type": "Electronics",
+    "Brand": "BeatBox",
+    "QuantityInStock": 28
+  },
+  {
+    "Name": "Yoga Exercise Mat",
+    "Description": "Non-slip exercise mat with cushioning for yoga, stretching, and workouts.",
+    "Price": 29.95,
+    "PictureUrl": "https://images.unsplash.com/photo-1592432678016-e910b452f9a2",
+    "Type": "Fitness",
+    "Brand": "FlexFit",
+    "QuantityInStock": 42
+  },
+  {
+    "Name": "Stainless Steel Kitchen Knife",
+    "Description": "Multipurpose 8-inch kitchen knife with an ergonomic handle.",
+    "Price": 34.0,
+    "PictureUrl": "https://images.unsplash.com/photo-1593618998160-e34014e67546",
+    "Type": "Home & Kitchen",
+    "Brand": "ChefCraft",
+    "QuantityInStock": 19
+  },
+  {
+    "Name": "Everyday Canvas Backpack",
+    "Description": "Lightweight canvas backpack with a spacious main compartment and front pocket.",
+    "Price": 39.99,
+    "PictureUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
+    "Type": "Accessories",
+    "Brand": "TrailCarry",
+    "QuantityInStock": 51
+  }
+]
